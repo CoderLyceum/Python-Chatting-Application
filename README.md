@@ -1,4 +1,4 @@
-#Python-Chatting-Application
+Python-Chatting-Application
 
 This is a chat application that I made with python the thing is that it only works on your local computer... I don't know how to run this on windows but for mac users type the following.
 
